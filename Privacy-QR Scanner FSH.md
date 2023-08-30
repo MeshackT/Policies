@@ -4,11 +4,10 @@ Privacy Policy
 Introduction  
 Our privacy policy will help you understand what information we collect at QR Scanner FSH, how QR Scanner FSH uses it, and what choices you have.
 QR Scanner FSH built the QR Scanner FSH app as a free app. This SERVICE is provided by QR Scanner FSH at no cost and is intended for use as is.
-If you choose to use our Service, then you agree to the collection and use of information in  relation to this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+If you choose to use our Service, then you agree to the approval of camera and storage usage information in  relation to this policy.   
 
 Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the user's name, and email address. The information that we request will be retained by us and used as described in this privacy policy.  
-The app does use third-party services that may collect information used to identify you. 
+No personal information is required.
 
 Cookies  
 Cookies are files with a small amount of data that is commonly used as an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your device’s internal memory.  
