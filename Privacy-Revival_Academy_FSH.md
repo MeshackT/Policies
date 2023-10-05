@@ -7,13 +7,13 @@ Our team built the Revival Academy FSH app as a free application but requires us
 If you choose to use our Service, then you agree to the collection and use of information in  relation to this policy. The Personal Information that we collect is used for most functionalities within the app. We will not use or share your information with anyone except as described in this Privacy Policy.  
 
 Information Collection and Use  
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the user's name, and email address, physical address, contact number, pictures, and all other required details as per the application requests. The information that we request will be retained on Google Cloud and used as described in this privacy policy.  
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to the user's name, email address, physical address, contact number, pictures, and all other required details as per the application requests. The information that we request will be retained on Google Cloud and used as described in this privacy policy.  
 The application does use third-party services that may collect information used to identify you. 
 
 Cookies  
 No cookie is executed.
 
-This Service does not use these “cookies” explicitly. However, the application may use third-party code and libraries that use “cookies” to collect information and to improve their services. You may be asked to approve of certain features within your device, If you choose to not approve of them then you wont be able to use other functionalities
+This Service does not use these “cookies” explicitly. However, the application may use third-party code and libraries that use “cookies” to collect information and to improve their services. You may be asked to approve of certain features within your device, If you choose to not approve of them then you won't be able to use other functionalities
 
 Device Information  
 We do not collect information from your device.  
@@ -38,6 +38,9 @@ Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.  
 
 In conclusion, you may be required to pay for your monthly storage. We will inform you when it's time to do your subscription as storage is not free.
+We have the right to disable accounts from your organization if you don't pay for your storage where post images are being stored. Users don't have a say on this as we won't be held liable. FSH cannot pay for your storage, that is your duty as a user. Payments can be made by contacting the developer using the email on this policy.
+
+Users cannot purchase or pay their monthly subscriptions for themselves. That is strictly done through the application provider or creator.
 
 Contact Us  
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
